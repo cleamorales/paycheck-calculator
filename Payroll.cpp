@@ -1,24 +1,37 @@
 #include "Payroll.h"
 
-// overtime after 40 hours
-double Payroll::calculateGross(double hours, double rate)
+// hourly earnings
+double Payroll::calculateHourlyPay(double hours)
 {
-    if (hours <= 40)
-        return hours * rate;
-    else
-    {
-        double overtime = hours - 40;
-        return (40 * rate) + (overtime * rate * 1.5);
-    }
+    return hours * 2.13;
 }
 
+// 8% tipout from sales
+double Payroll::calculateTipout(double sales)
+{
+    return sales * 0.08;
+}
+
+// tips after tipout deduction
+double Payroll::calculateFinalTips(double tips, double sales)
+{
+    double tipout = calculateTipout(sales);
+    return tips - tipout;
+}
+
+// total earnings before tax
+double Payroll::calculateGross(double hourlyPay, double finalTips)
+{
+    return hourlyPay + finalTips;
+}
+
+// simple 15% tax
 double Payroll::calculateTax(double gross)
 {
-    return gross * 0.15; // 15% tax
+    return gross * 0.15;
 }
 
 double Payroll::calculateNet(double gross)
 {
     return gross - calculateTax(gross);
 }
-

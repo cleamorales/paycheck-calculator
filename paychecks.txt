@@ -1,0 +1,102 @@
+-----------------------------
+Hours Worked: 8.00
+Hourly Rate: $2.13
+Gross Pay: $17.04
+Tax: $2.56
+Net Pay: $14.48
+-----------------------------
+
+-----------------------------
+Hours Worked: 8.00
+Hourly Pay: $17.04
+Tips Earned: $150.00
+Tipout: -$640.00
+Tips After Tipout: $-490.00
+Gross Pay: $-472.96
+Tax: $-70.94
+Take Home: $-402.02
+-----------------------------
+
+-----------------------------
+Hours Worked: 8.00
+Hourly Pay: $17.04
+Tips Earned: $200.00
+Tipout: -$72.00
+Tips After Tipout: $128.00
+Gross Pay: $145.04
+Tax: $21.76
+Take Home: $123.28
+-----------------------------
+
+-----------------------------
+Hours Worked: 9.00
+Hourly Pay: $19.17
+Tips Earned: $220.00
+Tipout: -$72.00
+Tips After Tipout: $148.00
+Gross Pay: $167.17
+Tax: $25.08
+Take Home: $142.09
+-----------------------------
+
+-----------------------------
+Hours Worked: 8.00
+Hourly Pay: $17.04
+Tips Earned: $250.00
+Tipout: -$560.00
+Tips After Tipout: $-310.00
+Gross Pay: $-292.96
+Tax: $-43.94
+Take Home: $-249.02
+-----------------------------
+
+Shift: Feb 19 2026 - 02:56 AM
+Hours Worked: 10.00
+Hourly Pay: $21.30
+Tips Earned: $300.00
+Tipout: -$200.00
+Tips After Tipout: $100.00
+Gross Pay: $121.30
+Tax: $18.20
+Take Home: $103.10
+-----------------------------
+
+Shift: Feb 19 2026 - 03:21 AM
+Hours Worked: 5.00
+Hourly Pay: $10.65
+Tips Earned: $80.00
+Tipout: -$40.00
+Tips After Tipout: $40.00
+Gross Pay: $50.65
+Tax: $7.60
+Take Home: $43.05
+-----------------------------
+
+=============================
+Date: 2026-02-19
+Shift: Feb 19 2026 - 03:40 AM
+-----------------------------
+Hours Worked: 6.00
+Hourly Pay: $12.78
+Tips Earned: $0.00
+Tipout: -$0.00
+Tips After Tipout: $0.00
+Gross Pay: $12.78
+Tax: $1.92
+Take Home: $10.86
+=============================
+
+=============================
+Date: 2026-02-19
+Shift: Feb 19 2026 - 03:41 AM
+-----------------------------
+Hours Worked: 6.00
+Hourly Pay: $12.78
+Tips Earned: $150.00
+Tipout: -$72.00
+Tips After Tipout: $78.00
+Gross Pay: $90.78
+Tax: $13.62
+Take Home: $77.16
+=============================
+
